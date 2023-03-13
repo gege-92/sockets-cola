@@ -8,7 +8,6 @@ Ejecutar ```npm install``` para reconstruir los modulos de Node.
  - Emitir desde el cliente
  - Emitir desde el server
  - Broadcast
-
 - Aplicacion de cola de tickets:
  - Diseño de 3 pantallas(escritorio, publico, nuevo-ticket)
  - Modelo de Ticket (clase para el manejo de tickets)
